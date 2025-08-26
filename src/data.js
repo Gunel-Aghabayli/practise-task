@@ -13,4 +13,4 @@ const data = [
   {name: "LADA (VAZ) Niva", year: 2013, price: 10500, vol: 1.7, run: 57000, img: 'https://turbo.azstatic.com/uploads/f330x248/2023%2F01%2F05%2F09%2F28%2F35%2Ff9ff6692-fae8-4733-9210-cd736aa85e97%2F37421_0HvEs6b92OGQqQH0VwNezg.jpg' }
 ];
 
-export default data
+export default data;

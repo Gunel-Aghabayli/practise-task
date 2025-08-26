@@ -7,8 +7,8 @@ function CarCom() {
     <div>
       <h1>Cars</h1>
       <div className="div">
-        {data.map((car, id) => (
-          <div className="carbox" key={id}>
+        {data.map((car, index) => (
+          <div className="carbox" key={index}>
             <img src={car.img} alt={car.name} />
             <h2>{car.name}</h2>
             <p>Year: {car.year}</p>
